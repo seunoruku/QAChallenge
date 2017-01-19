@@ -1,0 +1,693 @@
+2016-04-16 17:11:15,172 DEBUG TestProject.Hooks.Hooks - Starting Scenario: Search for books on SpringerLink and verify the search result url
+2016-04-16 17:11:54,027 DEBUG TestProject.Hooks.Hooks - Completed Scenario: Search for books on SpringerLink and verify the search result url
+2016-04-16 17:11:54,028 INFO PageObjectLibrary.Drivers.DriverLauncher - DestroyDriver has started
+2016-04-16 17:11:54,028 ERROR PageObjectLibrary.Drivers.DriverLauncher - DestroyDriver has encountered error: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at PageObjectLibrary.Drivers.DriverLauncher.DestroyDriver() in c:\Users\seuno\Documents\FinalDraft\automationjourney\Ketchup\PageObjectLibrary\Drivers\DriverLauncher.cs:line 93
+2016-04-16 17:40:51,178 DEBUG Logger.Logger - Starting Scenario: Search for books on SpringerLink and verify the search result url
+2016-04-16 17:41:37,245 DEBUG Logger.Logger - Completed Scenario: Search for books on SpringerLink and verify the search result url
+2016-04-16 17:41:37,246 INFO PageObjectLibrary.Drivers.DriverLauncher - DestroyDriver has started
+2016-04-16 17:41:37,246 ERROR PageObjectLibrary.Drivers.DriverLauncher - DestroyDriver has encountered error: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at PageObjectLibrary.Drivers.DriverLauncher.DestroyDriver() in c:\Users\seuno\Documents\FinalDraft\automationjourney\Ketchup\PageObjectLibrary\Drivers\DriverLauncher.cs:line 93
+2016-04-16 17:44:02,930 DEBUG Logger.Logger - Starting Scenario: Search for books on SpringerLink and verify the search result url
+2016-04-16 17:44:48,924 DEBUG Logger.Logger - Completed Scenario: Search for books on SpringerLink and verify the search result url
+2016-04-16 17:44:48,925 INFO PageObjectLibrary.Drivers.DriverLauncher - DestroyDriver has started
+2016-04-16 17:44:48,925 ERROR PageObjectLibrary.Drivers.DriverLauncher - DestroyDriver has encountered error: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at PageObjectLibrary.Drivers.DriverLauncher.DestroyDriver() in c:\Users\seuno\Documents\FinalDraft\automationjourney\Ketchup\PageObjectLibrary\Drivers\DriverLauncher.cs:line 93
+2016-04-16 17:51:51,400 DEBUG Logger.Logger - Starting Scenario: Search for books on SpringerLink and verify the search result url
+2016-04-16 17:52:05,693 INFO PageObjectLibrary.Drivers.DriverLauncher - Test exeuted on the Firefox Browser
+2016-04-16 17:52:05,697 INFO PageObjectLibrary.Drivers.DriverLauncher - SetUpCleanDriver started successfully
+2016-04-16 17:52:09,983 INFO PageObjectLibrary.Drivers.DriverLauncher - The browser has been maximized
+2016-04-16 17:52:11,835 INFO PageObjectLibrary.Drivers.DriverLauncher - The browser Cookies have all been cleared
+2016-04-16 17:52:11,885 INFO PageObjectLibrary.Drivers.DriverLauncher - The browser has now applied implicit wait 
+2016-04-16 17:52:34,870 DEBUG Logger.Logger - Completed Scenario: Search for books on SpringerLink and verify the search result url
+2016-04-16 17:52:34,871 INFO PageObjectLibrary.Drivers.DriverLauncher - DestroyDriver has started
+2016-04-16 17:52:36,189 INFO PageObjectLibrary.Drivers.DriverLauncher - The browser has been quit
+2016-04-16 17:52:36,190 INFO PageObjectLibrary.Drivers.DriverLauncher - There is no active browser
+2016-04-16 17:57:46,448 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on SpringerLink and verify the search result url
+2016-04-16 17:58:00,534 INFO PageObjectLibrary.Drivers.DriverLauncher - Test exeuted on the Firefox Browser
+2016-04-16 17:58:00,545 INFO PageObjectLibrary.Drivers.DriverLauncher - SetUpCleanDriver started successfully
+2016-04-16 17:58:08,158 INFO PageObjectLibrary.Drivers.DriverLauncher - The browser has been maximized
+2016-04-16 17:58:08,211 INFO PageObjectLibrary.Drivers.DriverLauncher - The browser Cookies have all been cleared
+2016-04-16 17:58:08,261 INFO PageObjectLibrary.Drivers.DriverLauncher - The browser has now applied implicit wait 
+2016-04-16 17:58:33,313 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on SpringerLink and verify the search result url
+2016-04-16 17:58:33,314 INFO PageObjectLibrary.Drivers.DriverLauncher - DestroyDriver has started
+2016-04-16 17:58:35,202 INFO PageObjectLibrary.Drivers.DriverLauncher - The browser has been quit
+2016-04-16 17:58:35,202 INFO PageObjectLibrary.Drivers.DriverLauncher - There is no active browser
+2016-04-16 19:47:32,629 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on SpringerLink and verify the search result url
+2016-04-16 19:48:02,101 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on SpringerLink and verify the search result url
+2016-04-16 19:48:04,395 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-16 19:54:59,923 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on SpringerLink and verify the search result url
+2016-04-16 19:55:13,575 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on SpringerLink and verify the search result url
+2016-04-16 19:55:15,636 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-16 19:56:06,173 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on SpringerLink and verify the search result url
+2016-04-16 19:59:01,179 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on SpringerLink and verify the search result url
+2016-04-16 19:59:03,657 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-16 19:59:53,431 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on SpringerLink and verify the search result url
+2016-04-16 20:00:16,702 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on SpringerLink and verify the search result url
+2016-04-16 20:00:18,638 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-16 21:00:05,349 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on SpringerLink and verify the search result url
+2016-04-16 21:00:27,714 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on SpringerLink and verify the search result url
+2016-04-16 21:00:29,778 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-16 21:10:33,542 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-04-16 21:10:54,770 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-04-16 21:10:56,709 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-16 21:12:04,846 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-04-16 21:12:27,561 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-04-16 21:12:29,483 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-16 22:17:08,401 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-04-16 22:17:36,138 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-04-16 22:17:38,314 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-16 22:22:35,559 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-04-16 22:23:05,958 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-04-16 22:23:07,993 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-16 22:35:03,171 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-04-16 22:35:35,534 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-04-16 22:35:37,571 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-16 22:41:45,193 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-04-16 22:42:13,748 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-04-16 22:42:15,824 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-17 01:01:29,233 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 01:01:49,266 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 01:01:51,408 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-17 01:01:51,473 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 01:02:03,467 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 01:02:05,398 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-17 01:08:52,113 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 01:09:07,088 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 01:09:09,064 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-17 01:09:09,128 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 01:09:21,289 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 01:09:23,311 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-17 01:12:13,170 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 01:12:30,869 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 01:12:32,854 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-17 01:12:32,916 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 01:12:47,600 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 01:12:49,595 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-17 01:23:44,558 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify That New Search Button Clears The Search text box
+2016-04-17 01:25:27,730 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify That New Search Button Clears The Search text box
+2016-04-17 01:25:29,786 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-17 01:26:28,066 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify That New Search Button Clears The Search text box
+2016-04-17 01:26:51,555 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify That New Search Button Clears The Search text box
+2016-04-17 01:26:53,582 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-17 09:45:07,454 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-04-17 09:45:11,121 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-04-17 09:45:11,151 ERROR PageObjectLibrary.Drivers.TestBase - DestroyDriver has encountered error: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at PageObjectLibrary.Drivers.TestBase.BaseOneTimeTearDown() in c:\Users\seuno\Documents\FinalDraft\automationjourney\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 86
+2016-04-17 09:46:28,596 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-04-17 09:46:51,113 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-04-17 09:46:54,483 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-17 09:50:28,731 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-04-17 09:51:00,231 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-04-17 09:51:02,185 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-17 09:57:30,380 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-04-17 09:57:52,201 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-04-17 09:57:54,161 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-17 10:06:46,532 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-04-17 10:07:10,584 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-04-17 10:07:12,379 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-17 10:08:10,141 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-04-17 10:08:30,679 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-04-17 10:08:32,497 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-17 10:15:14,862 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-04-17 10:15:36,762 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-04-17 10:15:38,607 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-17 10:17:08,658 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-04-17 10:17:32,455 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-04-17 10:17:34,448 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-17 10:18:40,872 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-04-17 10:19:03,425 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-04-17 10:19:05,295 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-17 10:21:01,929 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-04-17 10:21:24,243 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-04-17 10:21:26,027 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-17 10:22:59,158 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-04-17 10:23:19,963 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-04-17 10:23:21,888 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-17 10:24:43,970 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-04-17 10:25:06,607 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-04-17 10:25:08,451 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-17 14:24:27,479 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-04-17 14:24:49,307 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-04-17 14:24:51,195 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-17 14:26:49,770 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 14:27:25,502 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 14:27:27,403 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-17 14:27:27,472 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 14:28:01,197 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 14:28:03,111 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-17 14:30:59,216 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 14:31:29,161 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 14:31:30,627 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-17 14:31:30,685 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 14:31:43,511 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 14:31:45,294 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-17 14:52:51,858 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 14:53:22,931 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 14:53:24,428 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-17 14:53:24,486 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 14:53:37,074 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 14:53:38,995 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-17 14:54:19,614 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 14:54:36,663 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 14:54:38,581 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-17 14:54:38,645 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 14:54:52,235 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 14:54:54,066 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-17 14:57:43,122 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 14:57:58,815 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 14:58:00,642 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-17 14:58:00,705 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 14:58:15,431 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 14:58:17,302 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-17 15:01:42,429 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 15:02:00,297 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 15:02:02,215 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-17 15:02:02,277 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 15:02:15,538 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 15:02:17,369 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-17 15:05:03,709 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 15:05:19,526 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 15:05:21,391 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-17 15:05:21,452 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 15:05:34,447 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 15:05:36,364 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-17 15:08:16,516 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 15:13:22,432 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 15:13:24,325 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-17 15:13:24,385 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 15:13:51,349 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 15:13:53,202 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-17 15:17:18,651 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 15:17:41,771 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 15:17:43,698 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-17 15:17:43,748 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 15:18:07,100 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 15:18:09,008 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-17 15:18:28,864 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 15:18:51,051 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 15:18:53,057 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-17 15:18:53,108 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 15:19:14,817 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 15:19:16,670 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-17 15:20:33,346 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 15:20:57,506 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 15:20:59,507 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-17 15:20:59,558 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 15:21:23,662 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 15:21:25,508 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-17 15:24:08,163 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 15:24:30,638 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 15:24:32,565 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-17 15:24:32,620 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 15:24:53,864 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 15:24:55,732 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-17 15:25:33,326 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 15:25:55,844 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 15:25:57,734 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-17 15:25:57,788 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 15:26:18,200 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-04-17 15:26:20,082 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-04-17 18:20:02,582 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-04-17 18:21:11,931 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-04-17 18:21:13,895 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-11-01 22:16:38,532 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-11-01 22:16:38,585 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-11-01 22:16:38,585 ERROR PageObjectLibrary.Drivers.TestBase - DestroyDriver has encountered error: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at PageObjectLibrary.Drivers.TestBase.TakeScreenShot(TestContext currentContext, IWebDriver webDriver) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 108
+   at PageObjectLibrary.Drivers.TestBase.BaseTearDown(TestContext currentTestContext) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 102
+   at PageObjectLibrary.Drivers.TestBase.BaseOneTimeTearDown() in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 85
+2016-11-01 22:16:38,650 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on SpringerLink and verify the search result url
+2016-11-01 22:16:38,654 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on SpringerLink and verify the search result url
+2016-11-01 22:16:38,654 ERROR PageObjectLibrary.Drivers.TestBase - DestroyDriver has encountered error: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at PageObjectLibrary.Drivers.TestBase.TakeScreenShot(TestContext currentContext, IWebDriver webDriver) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 108
+   at PageObjectLibrary.Drivers.TestBase.BaseTearDown(TestContext currentTestContext) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 102
+   at PageObjectLibrary.Drivers.TestBase.BaseOneTimeTearDown() in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 85
+2016-11-01 22:16:38,716 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-11-01 22:16:38,716 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-11-01 22:16:38,716 ERROR PageObjectLibrary.Drivers.TestBase - DestroyDriver has encountered error: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at PageObjectLibrary.Drivers.TestBase.TakeScreenShot(TestContext currentContext, IWebDriver webDriver) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 108
+   at PageObjectLibrary.Drivers.TestBase.BaseTearDown(TestContext currentTestContext) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 102
+   at PageObjectLibrary.Drivers.TestBase.BaseOneTimeTearDown() in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 85
+2016-11-01 22:16:38,752 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-11-01 22:16:38,754 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-11-01 22:16:38,754 ERROR PageObjectLibrary.Drivers.TestBase - DestroyDriver has encountered error: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at PageObjectLibrary.Drivers.TestBase.TakeScreenShot(TestContext currentContext, IWebDriver webDriver) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 108
+   at PageObjectLibrary.Drivers.TestBase.BaseTearDown(TestContext currentTestContext) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 102
+   at PageObjectLibrary.Drivers.TestBase.BaseOneTimeTearDown() in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 85
+2016-11-01 22:16:38,801 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify That New Search Button Clears The Search text box
+2016-11-01 22:16:38,817 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify That New Search Button Clears The Search text box
+2016-11-01 22:16:38,817 ERROR PageObjectLibrary.Drivers.TestBase - DestroyDriver has encountered error: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at PageObjectLibrary.Drivers.TestBase.TakeScreenShot(TestContext currentContext, IWebDriver webDriver) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 108
+   at PageObjectLibrary.Drivers.TestBase.BaseTearDown(TestContext currentTestContext) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 102
+   at PageObjectLibrary.Drivers.TestBase.BaseOneTimeTearDown() in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 85
+2016-11-01 22:17:12,546 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-11-01 22:17:12,592 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-11-01 22:17:12,597 ERROR PageObjectLibrary.Drivers.TestBase - DestroyDriver has encountered error: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at PageObjectLibrary.Drivers.TestBase.TakeScreenShot(TestContext currentContext, IWebDriver webDriver) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 108
+   at PageObjectLibrary.Drivers.TestBase.BaseTearDown(TestContext currentTestContext) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 102
+   at PageObjectLibrary.Drivers.TestBase.BaseOneTimeTearDown() in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 85
+2016-11-01 22:17:12,618 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on SpringerLink and verify the search result url
+2016-11-01 22:17:12,620 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on SpringerLink and verify the search result url
+2016-11-01 22:17:12,622 ERROR PageObjectLibrary.Drivers.TestBase - DestroyDriver has encountered error: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at PageObjectLibrary.Drivers.TestBase.TakeScreenShot(TestContext currentContext, IWebDriver webDriver) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 108
+   at PageObjectLibrary.Drivers.TestBase.BaseTearDown(TestContext currentTestContext) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 102
+   at PageObjectLibrary.Drivers.TestBase.BaseOneTimeTearDown() in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 85
+2016-11-01 22:17:12,635 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-11-01 22:17:12,637 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-11-01 22:17:12,640 ERROR PageObjectLibrary.Drivers.TestBase - DestroyDriver has encountered error: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at PageObjectLibrary.Drivers.TestBase.TakeScreenShot(TestContext currentContext, IWebDriver webDriver) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 108
+   at PageObjectLibrary.Drivers.TestBase.BaseTearDown(TestContext currentTestContext) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 102
+   at PageObjectLibrary.Drivers.TestBase.BaseOneTimeTearDown() in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 85
+2016-11-01 22:17:12,648 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-11-01 22:17:12,650 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-11-01 22:17:12,652 ERROR PageObjectLibrary.Drivers.TestBase - DestroyDriver has encountered error: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at PageObjectLibrary.Drivers.TestBase.TakeScreenShot(TestContext currentContext, IWebDriver webDriver) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 108
+   at PageObjectLibrary.Drivers.TestBase.BaseTearDown(TestContext currentTestContext) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 102
+   at PageObjectLibrary.Drivers.TestBase.BaseOneTimeTearDown() in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 85
+2016-11-01 22:17:12,663 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify That New Search Button Clears The Search text box
+2016-11-01 22:17:12,665 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify That New Search Button Clears The Search text box
+2016-11-01 22:17:12,667 ERROR PageObjectLibrary.Drivers.TestBase - DestroyDriver has encountered error: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at PageObjectLibrary.Drivers.TestBase.TakeScreenShot(TestContext currentContext, IWebDriver webDriver) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 108
+   at PageObjectLibrary.Drivers.TestBase.BaseTearDown(TestContext currentTestContext) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 102
+   at PageObjectLibrary.Drivers.TestBase.BaseOneTimeTearDown() in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 85
+2016-11-01 22:17:26,159 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-11-01 22:17:26,216 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-11-01 22:17:26,221 ERROR PageObjectLibrary.Drivers.TestBase - DestroyDriver has encountered error: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at PageObjectLibrary.Drivers.TestBase.TakeScreenShot(TestContext currentContext, IWebDriver webDriver) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 108
+   at PageObjectLibrary.Drivers.TestBase.BaseTearDown(TestContext currentTestContext) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 102
+   at PageObjectLibrary.Drivers.TestBase.BaseOneTimeTearDown() in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 85
+2016-11-01 22:19:23,425 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-11-01 22:19:23,615 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-11-01 22:19:23,623 ERROR PageObjectLibrary.Drivers.TestBase - DestroyDriver has encountered error: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at PageObjectLibrary.Drivers.TestBase.TakeScreenShot(TestContext currentContext, IWebDriver webDriver) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 108
+   at PageObjectLibrary.Drivers.TestBase.BaseTearDown(TestContext currentTestContext) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 102
+   at PageObjectLibrary.Drivers.TestBase.BaseOneTimeTearDown() in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 85
+2016-11-01 22:22:06,943 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-11-01 22:22:07,023 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-11-01 22:22:07,031 ERROR PageObjectLibrary.Drivers.TestBase - DestroyDriver has encountered error: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at PageObjectLibrary.Drivers.TestBase.TakeScreenShot(TestContext currentContext, IWebDriver webDriver) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 108
+   at PageObjectLibrary.Drivers.TestBase.BaseTearDown(TestContext currentTestContext) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 102
+   at PageObjectLibrary.Drivers.TestBase.BaseOneTimeTearDown() in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 85
+2016-11-01 22:22:47,318 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-11-01 22:22:47,368 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-11-01 22:22:47,372 ERROR PageObjectLibrary.Drivers.TestBase - DestroyDriver has encountered error: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at PageObjectLibrary.Drivers.TestBase.TakeScreenShot(TestContext currentContext, IWebDriver webDriver) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 108
+   at PageObjectLibrary.Drivers.TestBase.BaseTearDown(TestContext currentTestContext) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 102
+   at PageObjectLibrary.Drivers.TestBase.BaseOneTimeTearDown() in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 85
+2016-11-20 22:15:50,167 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-11-20 22:15:56,852 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-11-20 22:15:57,286 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-11-20 22:15:57,308 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on SpringerLink and verify the search result url
+2016-11-20 22:16:03,889 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on SpringerLink and verify the search result url
+2016-11-20 22:16:04,761 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-11-20 22:16:04,779 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-11-20 22:16:10,901 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-11-20 22:16:11,074 ERROR PageObjectLibrary.Drivers.TestBase - DestroyDriver has encountered error: 
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at PageObjectLibrary.Drivers.TestBase.TakeScreenShot(TestContext currentContext, IWebDriver webDriver) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 111
+   at PageObjectLibrary.Drivers.TestBase.BaseTearDown(TestContext currentTestContext) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 102
+   at PageObjectLibrary.Drivers.TestBase.BaseOneTimeTearDown() in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 85
+2016-11-20 22:16:11,098 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-11-20 22:16:18,209 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-11-20 22:16:18,377 ERROR PageObjectLibrary.Drivers.TestBase - DestroyDriver has encountered error: 
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at PageObjectLibrary.Drivers.TestBase.TakeScreenShot(TestContext currentContext, IWebDriver webDriver) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 111
+   at PageObjectLibrary.Drivers.TestBase.BaseTearDown(TestContext currentTestContext) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 102
+   at PageObjectLibrary.Drivers.TestBase.BaseOneTimeTearDown() in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 85
+2016-11-20 22:16:18,395 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify That New Search Button Clears The Search text box
+2016-11-20 22:16:44,393 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify That New Search Button Clears The Search text box
+2016-11-20 22:16:44,890 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-11-20 22:17:14,250 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-11-20 22:17:22,096 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2016-11-20 22:17:22,538 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-11-20 22:17:22,560 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on SpringerLink and verify the search result url
+2016-11-20 22:17:31,089 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on SpringerLink and verify the search result url
+2016-11-20 22:17:32,007 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2016-11-20 22:17:32,023 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-11-20 22:17:38,328 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-11-20 22:17:38,486 ERROR PageObjectLibrary.Drivers.TestBase - DestroyDriver has encountered error: 
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at PageObjectLibrary.Drivers.TestBase.TakeScreenShot(TestContext currentContext, IWebDriver webDriver) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 111
+   at PageObjectLibrary.Drivers.TestBase.BaseTearDown(TestContext currentTestContext) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 102
+   at PageObjectLibrary.Drivers.TestBase.BaseOneTimeTearDown() in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 85
+2016-11-20 22:17:38,506 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-11-20 22:17:46,263 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on Springer Link using the advance search and verify the search result
+2016-11-20 22:17:46,452 ERROR PageObjectLibrary.Drivers.TestBase - DestroyDriver has encountered error: 
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at PageObjectLibrary.Drivers.TestBase.TakeScreenShot(TestContext currentContext, IWebDriver webDriver) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 111
+   at PageObjectLibrary.Drivers.TestBase.BaseTearDown(TestContext currentTestContext) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 102
+   at PageObjectLibrary.Drivers.TestBase.BaseOneTimeTearDown() in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 85
+2016-11-20 22:17:46,476 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify That New Search Button Clears The Search text box
+2016-11-20 22:17:59,304 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify That New Search Button Clears The Search text box
+2016-11-20 22:17:59,790 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-18 20:31:17,344 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2017-01-18 20:31:31,233 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2017-01-18 20:31:31,804 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-18 20:31:31,853 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on SpringerLink and verify the search result url
+2017-01-18 20:31:39,573 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on SpringerLink and verify the search result url
+2017-01-18 20:31:40,409 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-18 20:31:40,421 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on Springer Link using the advance search and verify the search result
+2017-01-18 20:31:49,786 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on Springer Link using the advance search and verify the search result
+2017-01-18 20:31:50,010 ERROR PageObjectLibrary.Drivers.TestBase - DestroyDriver has encountered error: 
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at PageObjectLibrary.Drivers.TestBase.TakeScreenShot(TestContext currentContext, IWebDriver webDriver) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 111
+   at PageObjectLibrary.Drivers.TestBase.BaseTearDown(TestContext currentTestContext) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 102
+   at PageObjectLibrary.Drivers.TestBase.BaseOneTimeTearDown() in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 85
+2017-01-18 20:31:50,027 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on Springer Link using the advance search and verify the search result
+2017-01-18 20:31:57,645 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on Springer Link using the advance search and verify the search result
+2017-01-18 20:31:57,838 ERROR PageObjectLibrary.Drivers.TestBase - DestroyDriver has encountered error: 
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at PageObjectLibrary.Drivers.TestBase.TakeScreenShot(TestContext currentContext, IWebDriver webDriver) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 111
+   at PageObjectLibrary.Drivers.TestBase.BaseTearDown(TestContext currentTestContext) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 102
+   at PageObjectLibrary.Drivers.TestBase.BaseOneTimeTearDown() in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 85
+2017-01-18 20:31:57,854 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify That New Search Button Clears The Search text box
+2017-01-18 20:32:07,571 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify That New Search Button Clears The Search text box
+2017-01-18 20:32:08,150 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-18 21:23:29,477 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2017-01-18 21:23:54,895 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on SpringerLink and verify the page contains the searched item
+2017-01-18 21:23:54,895 ERROR PageObjectLibrary.Drivers.TestBase - DestroyDriver has encountered error: 
+System.InvalidOperationException: Tried to run command without establishing a connection
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.GetScreenshot()
+   at PageObjectLibrary.Drivers.TestBase.TakeScreenShot(TestContext currentContext, IWebDriver webDriver) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 108
+   at PageObjectLibrary.Drivers.TestBase.BaseTearDown(TestContext currentTestContext) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 102
+   at PageObjectLibrary.Drivers.TestBase.BaseOneTimeTearDown() in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 85
+2017-01-18 21:23:54,964 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on SpringerLink and verify the search result url
+2017-01-18 21:24:01,732 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on SpringerLink and verify the search result url
+2017-01-18 21:24:01,736 ERROR PageObjectLibrary.Drivers.TestBase - DestroyDriver has encountered error: 
+System.InvalidOperationException: Tried to run command without establishing a connection
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.GetScreenshot()
+   at PageObjectLibrary.Drivers.TestBase.TakeScreenShot(TestContext currentContext, IWebDriver webDriver) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 108
+   at PageObjectLibrary.Drivers.TestBase.BaseTearDown(TestContext currentTestContext) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 102
+   at PageObjectLibrary.Drivers.TestBase.BaseOneTimeTearDown() in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 85
+2017-01-18 21:24:01,783 INFO TestProject.Hooks.Hooks - Starting Scenario: Search for books on Springer Link using the advance search and verify the search result
+2017-01-18 21:24:23,566 INFO TestProject.Hooks.Hooks - Completed Scenario: Search for books on Springer Link using the advance search and verify the search result
+2017-01-18 21:24:56,040 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify latest news section
+2017-01-18 21:25:07,550 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify latest news section
+2017-01-18 21:25:09,225 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-18 21:38:50,787 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify latest news section
+2017-01-18 21:39:01,394 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify latest news section
+2017-01-18 21:39:02,869 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-18 21:44:00,347 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify latest news section
+2017-01-18 21:44:08,781 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify latest news section
+2017-01-18 21:44:10,125 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-18 21:47:36,145 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify latest news section
+2017-01-18 21:47:46,881 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify latest news section
+2017-01-18 21:47:48,308 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-18 21:49:59,742 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify latest news section
+2017-01-18 21:50:10,756 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify latest news section
+2017-01-18 21:50:12,028 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-18 22:05:48,995 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify latest news section
+2017-01-18 22:06:02,552 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify latest news section
+2017-01-18 22:06:03,891 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-18 22:08:39,683 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify latest news section
+2017-01-18 22:08:49,136 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify latest news section
+2017-01-18 22:08:49,647 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-18 22:10:37,324 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify latest news section
+2017-01-18 22:10:46,485 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify latest news section
+2017-01-18 22:10:46,985 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-18 22:39:55,782 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify latest news section
+2017-01-18 22:40:09,418 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify latest news section
+2017-01-18 22:40:11,048 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-18 22:40:51,089 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify latest news section
+2017-01-18 22:41:02,313 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify latest news section
+2017-01-18 22:41:02,793 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-18 23:15:22,558 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify all menu links
+2017-01-18 23:15:32,190 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify all menu links
+2017-01-18 23:15:32,798 ERROR PageObjectLibrary.Drivers.TestBase - DestroyDriver has encountered error: 
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at PageObjectLibrary.Drivers.TestBase.TakeScreenShot(TestContext currentContext, IWebDriver webDriver) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 111
+   at PageObjectLibrary.Drivers.TestBase.BaseTearDown(TestContext currentTestContext) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 102
+   at PageObjectLibrary.Drivers.TestBase.BaseOneTimeTearDown() in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 85
+2017-01-18 23:15:32,825 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify all menu links
+2017-01-18 23:15:41,191 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify all menu links
+2017-01-18 23:15:41,701 ERROR PageObjectLibrary.Drivers.TestBase - DestroyDriver has encountered error: 
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at PageObjectLibrary.Drivers.TestBase.TakeScreenShot(TestContext currentContext, IWebDriver webDriver) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 111
+   at PageObjectLibrary.Drivers.TestBase.BaseTearDown(TestContext currentTestContext) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 102
+   at PageObjectLibrary.Drivers.TestBase.BaseOneTimeTearDown() in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 85
+2017-01-18 23:15:41,715 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify all menu links
+2017-01-18 23:15:50,509 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify all menu links
+2017-01-18 23:15:51,169 ERROR PageObjectLibrary.Drivers.TestBase - DestroyDriver has encountered error: 
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at PageObjectLibrary.Drivers.TestBase.TakeScreenShot(TestContext currentContext, IWebDriver webDriver) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 111
+   at PageObjectLibrary.Drivers.TestBase.BaseTearDown(TestContext currentTestContext) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 102
+   at PageObjectLibrary.Drivers.TestBase.BaseOneTimeTearDown() in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 85
+2017-01-18 23:15:51,187 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify all menu links
+2017-01-18 23:16:00,062 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify all menu links
+2017-01-18 23:16:00,715 ERROR PageObjectLibrary.Drivers.TestBase - DestroyDriver has encountered error: 
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at PageObjectLibrary.Drivers.TestBase.TakeScreenShot(TestContext currentContext, IWebDriver webDriver) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 111
+   at PageObjectLibrary.Drivers.TestBase.BaseTearDown(TestContext currentTestContext) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 102
+   at PageObjectLibrary.Drivers.TestBase.BaseOneTimeTearDown() in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 85
+2017-01-18 23:16:00,735 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify all menu links
+2017-01-18 23:16:10,443 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify all menu links
+2017-01-18 23:16:11,509 ERROR PageObjectLibrary.Drivers.TestBase - DestroyDriver has encountered error: 
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at PageObjectLibrary.Drivers.TestBase.TakeScreenShot(TestContext currentContext, IWebDriver webDriver) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 111
+   at PageObjectLibrary.Drivers.TestBase.BaseTearDown(TestContext currentTestContext) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 102
+   at PageObjectLibrary.Drivers.TestBase.BaseOneTimeTearDown() in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 85
+2017-01-18 23:16:11,549 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify all menu links
+2017-01-18 23:16:25,170 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify all menu links
+2017-01-18 23:16:26,667 ERROR PageObjectLibrary.Drivers.TestBase - DestroyDriver has encountered error: 
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at PageObjectLibrary.Drivers.TestBase.TakeScreenShot(TestContext currentContext, IWebDriver webDriver) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 111
+   at PageObjectLibrary.Drivers.TestBase.BaseTearDown(TestContext currentTestContext) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 102
+   at PageObjectLibrary.Drivers.TestBase.BaseOneTimeTearDown() in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 85
+2017-01-18 23:16:26,704 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify latest news section
+2017-01-18 23:16:39,195 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify latest news section
+2017-01-18 23:16:40,148 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-18 23:19:52,348 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify all menu links
+2017-01-18 23:20:03,881 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify all menu links
+2017-01-18 23:20:05,472 ERROR PageObjectLibrary.Drivers.TestBase - DestroyDriver has encountered error: 
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at PageObjectLibrary.Drivers.TestBase.TakeScreenShot(TestContext currentContext, IWebDriver webDriver) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 111
+   at PageObjectLibrary.Drivers.TestBase.BaseTearDown(TestContext currentTestContext) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 102
+   at PageObjectLibrary.Drivers.TestBase.BaseOneTimeTearDown() in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 85
+2017-01-18 23:20:05,532 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify all menu links
+2017-01-18 23:20:18,810 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify all menu links
+2017-01-18 23:20:20,263 ERROR PageObjectLibrary.Drivers.TestBase - DestroyDriver has encountered error: 
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at PageObjectLibrary.Drivers.TestBase.TakeScreenShot(TestContext currentContext, IWebDriver webDriver) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 111
+   at PageObjectLibrary.Drivers.TestBase.BaseTearDown(TestContext currentTestContext) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 102
+   at PageObjectLibrary.Drivers.TestBase.BaseOneTimeTearDown() in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 85
+2017-01-18 23:20:20,299 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify all menu links
+2017-01-18 23:20:31,418 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify all menu links
+2017-01-18 23:20:32,712 ERROR PageObjectLibrary.Drivers.TestBase - DestroyDriver has encountered error: 
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at PageObjectLibrary.Drivers.TestBase.TakeScreenShot(TestContext currentContext, IWebDriver webDriver) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 111
+   at PageObjectLibrary.Drivers.TestBase.BaseTearDown(TestContext currentTestContext) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 102
+   at PageObjectLibrary.Drivers.TestBase.BaseOneTimeTearDown() in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 85
+2017-01-18 23:20:32,747 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify all menu links
+2017-01-18 23:20:43,348 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify all menu links
+2017-01-18 23:20:44,457 ERROR PageObjectLibrary.Drivers.TestBase - DestroyDriver has encountered error: 
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at PageObjectLibrary.Drivers.TestBase.TakeScreenShot(TestContext currentContext, IWebDriver webDriver) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 111
+   at PageObjectLibrary.Drivers.TestBase.BaseTearDown(TestContext currentTestContext) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 102
+   at PageObjectLibrary.Drivers.TestBase.BaseOneTimeTearDown() in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 85
+2017-01-18 23:20:44,493 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify all menu links
+2017-01-18 23:20:58,085 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify all menu links
+2017-01-18 23:20:59,368 ERROR PageObjectLibrary.Drivers.TestBase - DestroyDriver has encountered error: 
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at PageObjectLibrary.Drivers.TestBase.TakeScreenShot(TestContext currentContext, IWebDriver webDriver) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 111
+   at PageObjectLibrary.Drivers.TestBase.BaseTearDown(TestContext currentTestContext) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 102
+   at PageObjectLibrary.Drivers.TestBase.BaseOneTimeTearDown() in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 85
+2017-01-18 23:20:59,404 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify all menu links
+2017-01-18 23:21:13,700 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify all menu links
+2017-01-18 23:21:15,583 ERROR PageObjectLibrary.Drivers.TestBase - DestroyDriver has encountered error: 
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at PageObjectLibrary.Drivers.TestBase.TakeScreenShot(TestContext currentContext, IWebDriver webDriver) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 111
+   at PageObjectLibrary.Drivers.TestBase.BaseTearDown(TestContext currentTestContext) in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 102
+   at PageObjectLibrary.Drivers.TestBase.BaseOneTimeTearDown() in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 85
+2017-01-18 23:21:15,758 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify latest news section
+2017-01-18 23:21:30,254 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify latest news section
+2017-01-18 23:21:31,155 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-18 23:26:32,012 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify all menu links
+2017-01-18 23:26:41,336 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify all menu links
+2017-01-18 23:26:41,341 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-18 23:28:04,902 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify latest news section
+2017-01-18 23:28:15,739 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify latest news section
+2017-01-18 23:28:32,193 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-18 23:33:10,357 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify all menu links
+2017-01-18 23:33:19,799 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify all menu links
+2017-01-18 23:33:20,252 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-18 23:43:05,342 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify all menu links
+2017-01-18 23:43:14,306 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify all menu links
+2017-01-18 23:43:14,764 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-18 23:44:37,858 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify all menu links
+2017-01-18 23:45:03,963 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify all menu links
+2017-01-18 23:45:04,466 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-18 23:45:35,442 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify all menu links
+2017-01-18 23:45:50,635 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify all menu links
+2017-01-18 23:45:51,183 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-18 23:45:51,201 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify all menu links
+2017-01-18 23:46:04,750 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify all menu links
+2017-01-18 23:46:05,244 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-18 23:46:05,256 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify all menu links
+2017-01-18 23:46:19,457 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify all menu links
+2017-01-18 23:46:19,958 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-18 23:46:19,977 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify all menu links
+2017-01-18 23:46:32,725 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify all menu links
+2017-01-18 23:46:33,232 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-18 23:46:33,245 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify all menu links
+2017-01-18 23:46:46,758 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify all menu links
+2017-01-18 23:46:47,304 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-18 23:46:47,316 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify all menu links
+2017-01-18 23:47:00,416 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify all menu links
+2017-01-18 23:47:00,899 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-18 23:47:00,923 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify latest news section
+2017-01-18 23:47:09,603 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify latest news section
+2017-01-18 23:47:10,039 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-18 23:52:07,534 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify all menu links
+2017-01-18 23:52:26,184 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify all menu links
+2017-01-18 23:52:26,672 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-18 23:52:26,692 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify all menu links
+2017-01-18 23:52:45,763 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify all menu links
+2017-01-18 23:52:46,236 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-18 23:52:46,249 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify all menu links
+2017-01-18 23:53:05,281 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify all menu links
+2017-01-18 23:53:05,756 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-18 23:53:05,776 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify all menu links
+2017-01-18 23:53:24,804 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify all menu links
+2017-01-18 23:53:25,266 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-18 23:53:25,279 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify all menu links
+2017-01-18 23:53:43,703 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify all menu links
+2017-01-18 23:53:44,189 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-18 23:53:44,204 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify all menu links
+2017-01-18 23:54:02,970 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify all menu links
+2017-01-18 23:54:03,465 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-18 23:54:03,482 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify latest news section
+2017-01-18 23:54:24,330 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify latest news section
+2017-01-18 23:54:24,331 ERROR PageObjectLibrary.Drivers.TestBase - DestroyDriver has encountered error: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at PageObjectLibrary.Drivers.TestBase.BaseOneTimeTearDown() in C:\Users\seuno\OneDrive\Documents\CSharpAutomation\space_ship\Ketchup\PageObjectLibrary\Drivers\TestBase.cs:line 85
+2017-01-18 23:54:31,976 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify all menu links
+2017-01-18 23:54:50,963 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify all menu links
+2017-01-18 23:54:51,451 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-18 23:57:56,768 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify all menu links
+2017-01-18 23:58:15,772 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify all menu links
+2017-01-18 23:58:16,275 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-18 23:58:16,295 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify all menu links
+2017-01-18 23:58:34,383 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify all menu links
+2017-01-18 23:58:34,914 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-18 23:58:34,928 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify all menu links
+2017-01-18 23:58:52,836 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify all menu links
+2017-01-18 23:58:53,326 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-18 23:58:53,345 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify all menu links
+2017-01-18 23:59:12,557 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify all menu links
+2017-01-18 23:59:13,076 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-18 23:59:13,088 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify all menu links
+2017-01-18 23:59:30,085 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify all menu links
+2017-01-18 23:59:30,606 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-18 23:59:30,619 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify all menu links
+2017-01-18 23:59:49,459 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify all menu links
+2017-01-18 23:59:50,002 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-18 23:59:50,015 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify latest news section
+2017-01-18 23:59:56,865 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify latest news section
+2017-01-18 23:59:57,319 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-19 00:01:00,269 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify all menu links
+2017-01-19 00:01:19,571 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify all menu links
+2017-01-19 00:01:20,058 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-19 00:03:38,681 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify all menu links
+2017-01-19 00:03:57,859 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify all menu links
+2017-01-19 00:03:58,356 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-19 00:18:47,472 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify all menu links
+2017-01-19 00:19:06,270 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify all menu links
+2017-01-19 00:19:06,814 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-19 00:19:06,835 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify all menu links
+2017-01-19 00:19:25,290 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify all menu links
+2017-01-19 00:19:25,792 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-19 00:19:25,804 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify all menu links
+2017-01-19 00:19:44,407 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify all menu links
+2017-01-19 00:19:44,905 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-19 00:19:44,923 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify all menu links
+2017-01-19 00:20:03,407 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify all menu links
+2017-01-19 00:20:03,920 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-19 00:20:03,937 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify all menu links
+2017-01-19 00:20:23,224 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify all menu links
+2017-01-19 00:20:23,723 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-19 00:20:23,735 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify all menu links
+2017-01-19 00:20:43,263 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify all menu links
+2017-01-19 00:20:43,732 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-19 00:20:43,747 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify latest news section
+2017-01-19 00:20:50,165 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify latest news section
+2017-01-19 00:20:50,594 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-19 00:55:47,920 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify all menu links
+2017-01-19 00:56:12,294 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify all menu links
+2017-01-19 00:56:12,794 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-19 00:56:12,814 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify all menu links
+2017-01-19 00:56:32,464 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify all menu links
+2017-01-19 00:56:32,987 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-19 00:56:33,002 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify all menu links
+2017-01-19 00:56:51,928 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify all menu links
+2017-01-19 00:56:52,430 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-19 00:56:52,443 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify all menu links
+2017-01-19 00:57:12,296 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify all menu links
+2017-01-19 00:57:12,774 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-19 00:57:12,787 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify all menu links
+2017-01-19 00:57:30,601 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify all menu links
+2017-01-19 00:57:31,126 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-19 00:57:31,138 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify all menu links
+2017-01-19 00:57:50,096 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify all menu links
+2017-01-19 00:57:50,631 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit
+2017-01-19 00:57:50,644 INFO TestProject.Hooks.Hooks - Starting Scenario: Verify latest news section
+2017-01-19 00:58:00,659 INFO TestProject.Hooks.Hooks - Completed Scenario: Verify latest news section
+2017-01-19 00:58:01,102 INFO PageObjectLibrary.Drivers.TestBase - The browser has been quit

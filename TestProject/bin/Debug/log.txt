@@ -1,0 +1,10 @@
+2016-04-16 16:44:33,782 DEBUG Logger.Logger - Starting Scenario: Search for books on SpringerLink and verify the search result url
+2016-04-16 16:44:52,285 INFO PageObjectLibrary.Drivers.DriverLauncher - Test exeuted on the Firefox Browser
+2016-04-16 16:44:52,301 INFO PageObjectLibrary.Drivers.DriverLauncher - SetUpCleanDriver started successfully
+2016-04-16 16:45:01,421 INFO PageObjectLibrary.Drivers.DriverLauncher - The browser has been maximized
+2016-04-16 16:45:01,487 INFO PageObjectLibrary.Drivers.DriverLauncher - The browser Cookies have all been cleared
+2016-04-16 16:45:01,544 INFO PageObjectLibrary.Drivers.DriverLauncher - The browser has now applied implicit wait 
+2016-04-16 16:45:29,807 DEBUG Logger.Logger - Completed Scenario: Search for books on SpringerLink and verify the search result url
+2016-04-16 16:45:29,808 INFO PageObjectLibrary.Drivers.DriverLauncher - DestroyDriver has started
+2016-04-16 16:45:31,863 INFO PageObjectLibrary.Drivers.DriverLauncher - The browser has been quit
+2016-04-16 16:45:31,863 INFO PageObjectLibrary.Drivers.DriverLauncher - There is no active browser
